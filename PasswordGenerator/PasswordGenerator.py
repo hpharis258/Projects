@@ -13,25 +13,6 @@ symbols = ['!','@','#','$','%','^','&','*','(',')']
 lettersCappital = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
 lettersLower = ['a','b','c','d','e','f','g','h','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 
-#Testing
-random_CAPLetters = random.sample(lettersCappital, 1)
-random_LOWLetters = random.sample(lettersLower, 4)
-random_numbers = random.sample(numbers, 4)
-random_symbols = random.sample(symbols, 1)
-random_CAPLetters = random.sample(lettersCappital, 2)
-
-functionsList = [random_CAPLetters, random_LOWLetters, random_numbers, random_LOWLetters]
-
-first = random.choice(functionsList)
-second = random.choice(functionsList)
-third = random.choice(functionsList)
-fourth = random.choice(functionsList)
-fifth = random.choice(functionsList)
-
-password_Generated = first + second + third + fourth + fifth
-
- #print(listToString(password_Generated))
-
 window = Tk()
 window.title("Random Password generator")
 window.geometry('350x200')

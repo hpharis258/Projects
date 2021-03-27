@@ -58,6 +58,7 @@ def clicked():
     fifth = random.choice(functionsList)
 
     password_Generated = first + second + third + fourth + fifth
+    pyperclip.copy(listToString(password_Generated))
 
     passLbl.configure(text=listToString(password_Generated))
     messagebox.showwarning('PASSWORD', listToString(password_Generated))
@@ -70,6 +71,6 @@ info.grid(column=1, row=3)
 
 author = Label(window, text="By Haroldas Varanauskas")
 author.grid(column=1, row=4)
-pyperclip.copy(listToString(password_Generated))
+
 
 window.mainloop()

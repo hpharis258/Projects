@@ -1,0 +1,28 @@
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.exe.config
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.exe
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.pdb
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.csproj.AssemblyReference.cache
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.Form1.resources
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.Properties.Resources.resources
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.csproj.GenerateResource.cache
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.csproj.CoreCompileInputs.cache
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.exe
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.pdb
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.exe.manifest
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.application
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.exe.manifest
+C:\Users\Haroldas\Desktop\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.application
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.exe.config
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.exe.manifest
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.application
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.exe
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\bin\Debug\SortingAlgorithmApplication.pdb
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.csproj.AssemblyReference.cache
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.Form1.resources
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.Properties.Resources.resources
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.csproj.GenerateResource.cache
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.csproj.CoreCompileInputs.cache
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.exe.manifest
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.application
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.exe
+C:\Users\Haroldas\Desktop\UNIT 4 Algorithm Implementation\C# Sorting Algorithm App\SortingAlgorithmApplication\SortingAlgorithmApplication\obj\Debug\SortingAlgorithmApplication.pdb

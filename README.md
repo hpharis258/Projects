@@ -1,2 +1,1 @@
-# Projects
-Python Projects to showcase my ability. 
+Programming Projects Vault

@@ -1,6 +1,12 @@
 //Game Music
-let music = new Audio("sadtronic.mp3");
-music.play();
+window.onload = function() {
+    let context = new AudioContext();
+    let music = new Audio("sadtronic.mp3");
+    music.play();
+    music.setAttribute("autoplay", true );
+  }
+  
+
 
 
 //Disable Scrolling
@@ -184,14 +190,22 @@ let current;
 //SPACE 
 document.addEventListener('keyup', event => {
     if (event.code === 'Space') {
-      let randColour = colours[Math.floor(Math.random() * colours.length)];  
+    // Index of current colour in the Array
+      let toRem = colours.indexOf(playerCol);
+    // Copy of the colours array
+      let cp = [...colours];
+    // Remove index from the copy of the array 
+    cp.splice(toRem, 1);
+
+      let randColour = cp[Math.floor(Math.random() * cp.length)];  
       let current = player.style.fill=randColour;
-      //let div = document.createElement('div');
+    
       playerCol = current;
-    }
-  })
+   }
+})
+
 //MOUSE/TOUCH
-  document.addEventListener("touchstart", touch);
+document.addEventListener("touchstart", touch);
 
   function touch()
   {
